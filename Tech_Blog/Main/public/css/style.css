@@ -144,7 +144,7 @@ input {
 }
 
 .list-item {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   padding: 1.5%;
   border-radius: var(--border-radius);
   background-color: var(--light-dark);
@@ -176,7 +176,7 @@ input {
 .card-header {
   color: var(--primary);
   background-color: var(--dark);
-  padding: 1%;
+  padding: 2%;
   border-radius: calc(0.18rem - 1px) calc(0.18rem - 1px) 0 0;
 }
 
@@ -198,10 +198,10 @@ input {
 
 .form-input {
   width: 100%;
-  padding: 1%;
-  margin: 5px 0;
+  padding: .5%;
+  margin: 6px 0;
   font-size: 1.2rem;
-  border: 2px solid var(--light-dark);
+  border: 3px solid var(--light-dark);
   border-radius: var(--border-radius);
 }
 
